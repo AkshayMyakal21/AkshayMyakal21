@@ -4,7 +4,7 @@
 
 🎓 Student based in Heidelberg, Germany.
 
-🔍 Building ML-powered tools, like [HushHush Recruiter]([(https://github.com/AkshayMyakal21/Hush-hush-Recuriter)]), which finds and ranks GitHub candidates with clustering and a Random Forest classifier.
+🔍 Building ML-powered tools, like [HushHush Recruiter](https://github.com/AkshayMyakal21/Hush-hush-Recuriter), which finds and ranks GitHub candidates with clustering and a Random Forest classifier.
 
 🌱 Currently learning: LLMs, AI agents and MLOps
 
