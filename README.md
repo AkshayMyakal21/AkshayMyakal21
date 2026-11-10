@@ -24,8 +24,11 @@ Streamlit · SQLite · Docker · GitHub Actions · Git
 
 ### 📊 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=AkshayMyakal21&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayMyakal21&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=AkshayMyakal21&theme=tokyonight)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AkshayMyakal21&theme=tokyonight)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AkshayMyakal21&theme=tokyonight)
 
 ---
 
