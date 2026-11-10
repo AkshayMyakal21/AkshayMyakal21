@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋 I'm Akshay
 
-<!--
-**AkshayMyakal21/AkshayMyakal21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Data Science Student | Machine Learning · Python · Docker
 
-Here are some ideas to get you started:
+🎓 Student based in Heidelberg, Germany.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Building ML-powered tools, like [HushHush Recruiter](https://github.com/AkshayMyakal21/HushHush-Recruiter), which finds and ranks GitHub candidates with clustering and a Random Forest classifier.
+
+🌱 Currently learning: LLMs, AI agents and MLOps
+
+---
+
+### 🛠️ Tech Stack
+
+**Machine Learning & Data**
+Python · Scikit-Learn · Pandas · NumPy · Jupyter
+
+**Apps & Deployment**
+Streamlit · SQLite · Docker · GitHub Actions · Git
+
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,docker,git,github,sqlite,vscode&theme=dark)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=AkshayMyakal21&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AkshayMyakal21&layout=compact&theme=tokyonight)
+
+---
+
+### 🔗 Socials
+
+[GitHub](https://github.com/AkshayMyakal21) · [LinkedIn](www.linkedin.com/in/akshaymyakal)
